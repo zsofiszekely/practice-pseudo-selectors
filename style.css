@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+}
+
+
+p{
+    border: 2px solid black;
+    border-top: none;
+    width: 350px;
+    height: auto;
+    margin: 0px;
+    padding: 20px;
+}
+
+p:hover{
+    background: coral;
+}
+
+body{
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
